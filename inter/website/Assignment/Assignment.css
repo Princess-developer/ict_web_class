@@ -1,0 +1,26 @@
+.main {
+    height: 300px;
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+
+}
+
+#myinp {
+padding: 3px;
+font-size: large;
+border-radius: 5px;
+}
+
+#btn2{
+padding: 4px;
+font-size: large;
+background-color: blueviolet;
+cursor: pointer;
+box-shadow: 12px 0px 12px black;
+}
+
+#btn2:hover{
+    background-color: violet;
+}

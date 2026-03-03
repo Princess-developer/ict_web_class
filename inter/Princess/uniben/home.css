@@ -1,0 +1,236 @@
+.uni{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(84, 0, 84);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 10px;
+}
+
+.ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    font-size: larger;
+    border: none;
+    margin-left: 500px;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.IMG{
+    height: 50px;
+    width: 80px;
+}
+
+.home{
+    height: 500px;
+    width: 1100px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: large;
+    font: icon;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+    
+.body{
+    background-color: whitesmoke;
+}
+
+.h1{
+    color: rgb(84, 0, 84);
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    font: icon;
+}
+
+.p2{
+    font: icon;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.online{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.offline{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray
+}
+
+.inline{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.h1{
+color: rgb(84, 0, 84);
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2{
+   color: rgb(84, 0, 84); 
+   display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.h3{
+    color: rgb(84, 0, 84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.end{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(84, 0, 84);
+}
+.end1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.end2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.end3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.bdy{
+    background-color: whitesmoke;
+}
+.divi1{
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 600px;
+    margin-top: 30px;
+}
+.divi{
+    display: flex;
+}
+.h7{
+    color: red;
+}
+.btn7{
+   background-color: white;
+}
+.p7{
+    color: red;
+    font-size: larger;
+}
+.btn16{
+    background-color: rgb(84, 0, 84);
+    color: white;
+    border-radius: 5px;
+    width: 250px;
+    height: 60px;
+    cursor: pointer;
+}
+.inp1{
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+}
+.inp2{
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+}
+.inp3{
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+}
+.inp4{
+    height: 90px;
+    width: 250px;
+    border-radius: 5px;
+}
+.divid{
+    margin-left: 100px;
+}
+.con{
+    color: rgb(84, 0, 84);
+}
+.h4{
+    color: rgb(84, 0, 84);
+}
+.h5{
+    color: rgb(84, 0, 84);
+}
+.h6{
+    color: rgb(84, 0, 84);
+}
+.white{
+    background-color: whitesmoke;
+    
+}
+.btn16:hover{
+    background-color:rgb(155, 49, 155);
+}
+.inp1:focus{
+    outline: none;
+    border: 2px solid purple;
+}
+.inp2:focus{
+    outline: none;
+    border: 2px solid purple;
+}
+.inp3:focus{
+    outline: none;
+    border: 2px solid purple;
+}
+.inp4:focus{
+    outline: none;
+    border: 2px solid purple;
+}

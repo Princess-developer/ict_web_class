@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.frame1 {
+    background-color: burlywood;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.frame2 {
+    background-color: burlywood;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+}
+.frame3 {
+    background-color: burlywood;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+}
+img {
+    height: 200px;
+    width: 180px;
+}

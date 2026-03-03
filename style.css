@@ -1,0 +1,23 @@
+body {
+    background-color: orangered;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bright {
+    background-color: white;
+    height: 300px;
+    width: 300px;
+}
+.omono{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

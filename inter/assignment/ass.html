@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./ass.css">
+</head>
+<body>
+    <h1>Hello javascript</h1>
+    <script>
+        const person = {
+            id: "USR1024",
+            name: {
+                first: "Daniel",
+                middle: "Emeka",
+                last: "Johnson"
+            },
+            age: 32,
+            isMarried: true,
+            wife: {
+                name: "Rebecca",
+                age: 29,
+                hobbies: ["Cooking", "Designing", "Traveling"]
+            },
+            children: [
+                {
+                    name: "Nathan",
+                    age: 5
+                },
+                {
+                    name: "Grace",
+                    age: 3
+                }
+            ],
+            address: {
+                street: "15 Admiralty Way",
+                city: "Lekki",
+                state: "Lagos",
+                country: "Nigeria"
+            },
+            skills: ["JavaScript", "React", "Node.js", "Python"],
+            job: {
+                title: "Software Engineer",
+                company: "TechNova",
+                salary: 850000,
+                remote: true
+            }
+            
+        };
+        
+        console.log(person.name.first);
+        console.log(person.name.last);
+        console.log(person.wife.name);
+        console.log(person.wife.name[2]);
+        console.log(person.wife.hobbies[1]);
+        console.log(person.children[0].name);
+        console.log(person.children[1].name);
+        console.log(person.address.state);
+        console.log(person.job.company);
+        console.log(person.job.title[0]);
+        console.log(person.wife.hobbies[2]);
+        console.log(person.name.middle[4]);
+        console.log(person.address.country);
+        console.log(person.skills[3]);
+        console.log(person.address.city);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </script>
+</body>
+</html>
