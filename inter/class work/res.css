@@ -1,0 +1,25 @@
+.my_h1{
+    color: red;
+}
+@media (max-width: 450px){
+    .my_h1{
+        color: blue;
+    }
+    .parent{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .parent div{
+        width: 100%;
+    }
+}
+.parent{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.parent div{
+    background-color: red;
+    width: 25%;
+    height: 300px;
+}

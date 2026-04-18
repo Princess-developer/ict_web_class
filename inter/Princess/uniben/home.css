@@ -233,4 +233,18 @@ display: flex;
 .inp4:focus{
     outline: none;
     border: 2px solid purple;
+    .icon{
+        display: none;
+    }
+}
+@media (max-width: 500px){
+    .div{
+        flex-direction: column;
+    }
+    .icon{
+        display: block;
+    }
+    .uni{
+        display: block;
+    }
 }
