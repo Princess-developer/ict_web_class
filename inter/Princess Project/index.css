@@ -624,9 +624,4 @@ text-align: center;
 .branchee{
     width: 50%;
 }
-.dev{
-    display: flex;
-    align-items:  center;
-    justify-content: center;
-}
 }
