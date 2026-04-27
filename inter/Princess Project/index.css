@@ -575,6 +575,7 @@ text-align: center;
     .Navbar {
     position: sticky;
     top: 0;
+    width: 100%;
 }
 .right{
    height: 200px; 
@@ -590,6 +591,7 @@ text-align: center;
 .foot{
     margin-top: 450px;
     font-size: large;
+    width: 100%;
 }
 .navi{
     margin-right: 40px;
